@@ -9,9 +9,7 @@
     </style>
 
     <style name="MyEditTextTheme">
-        <item name="colorControlNormal">#ff0000</item>
-        <item name="colorControlActivated">#00ff00</item>
-        <item name="colorControlHighlight">#ffffff</item>
+        <item name="colorControlNormal">#ffffff</item>
     </style>
 
 </resources>
