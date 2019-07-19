@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">E-mail Sender</string>
+    <string name="Dest">Destinatário :</string>
+    <string name="to">Para :</string>
+    <string name="Sub">Assunto :</string>
+    <string name="Msg">Mensagem :</string>
+    <string name="Send">Enviar</string>
+</resources>
