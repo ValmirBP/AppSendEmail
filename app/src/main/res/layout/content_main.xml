@@ -93,7 +93,7 @@
         android:text="@string/Send"
         android:textSize="18sp"
         android:textColor="@color/textColor"
-        android:background="@drawable/button_style"/>
+        android:background="@drawable/btn_send_style_complete" />
 
 
 </RelativeLayout>
