@@ -12,7 +12,7 @@ Imagem 1: tela principal
 # Versão disponível:
 Disponíveis para as versões Ice Cream Sandwich (Android 4.0) em diante.
 
-Exemplo de Uso:
+# Exemplo de Uso:
 Aplicativo criado para para usários que possuem pouca memória em seu dispositivo, que possa enviar e-mails sem a necessidade de vários aplicativos de e-mail.
 
 # Autor:
