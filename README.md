@@ -1,21 +1,24 @@
 # AppSendEmail
 
-Aplicativo desenvolvido para o envio de e-mail, o qual recebe as informações digitadas pelo usuário,
-e as envia para uma aplicação de cliente de envio de email ( Yahoo, Outlook, Gmail, etc.),
-com a utilização das intents, um recurso nativo do Android utilizando também o protocolo padrão para o
-envio de email.
+Application developed for sending emails, which receives the information entered by the user,
+and sends them to an email sending client application (Yahoo, Outlook, Gmail, etc.),
+with the use of intents, a native feature of Android also using the standard protocol for
+email sending.
 
 ![emailSender](https://user-images.githubusercontent.com/48802923/68520742-0ff16c80-0279-11ea-8974-6cad9d9b7211.png)
 
-Imagem 1: tela principal
+Image 1: main screen
 
-# Versão disponível:
-Disponíveis para as versões Ice Cream Sandwich (Android 4.0) em diante.
+# Available version:
 
-# Exemplo de Uso:
-Aplicativo criado para para usários que possuem pouca memória em seu dispositivo, que possa enviar e-mails sem a necessidade de vários aplicativos de e-mail.
+Available for Ice Cream Sandwich versions (Android 4.0) onwards.
 
-# Autor:
-Valmir de Barros Pedro - valmir.barros57@yahoo.com.br
+# Example of use:
+
+Application created for users who have little memory on their device, which can send emails without the need for multiple email applications.
+
+# Author:
+
+Valmir de Barros Pedro - valmirpsn@gmail.com
 
 
